@@ -1,0 +1,8 @@
+{
+  "name": "edit Remix Salespage Whitelabel ai musik studio",
+  "description": "Salespage AI MUSIK STUDIO - The Ultimate AI Music Business OS dengan paket akses 1 Bulan, 6 Bulan, dan 1 Tahun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
